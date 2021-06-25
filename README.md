@@ -2,4 +2,4 @@
 
 ![snapshot](ss.png)
 
-Using basic of HTML,CSS I have made the landing page of Pepsi.
+Using basic of HTML,CSS,JS I have made the landing page of Pepsi.
